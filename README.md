@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :octocat: About Me:
 working on game launcher<br>working on wallpaper-selector<br>i love linux and games
 
 
