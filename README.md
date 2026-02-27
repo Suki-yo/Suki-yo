@@ -1,5 +1,5 @@
 # 🌸 About Me:
-working on game launcher<br>working on wallpaper-selector<br>i love linux and games
+i use arch btw
 
 
 # 🗿 Tech Stack:
